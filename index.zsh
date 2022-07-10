@@ -14,7 +14,10 @@ echo "Creating Project......."
 mkdir "$projectName"
 git init
 git add .
+git commit -m "initial commit"
 git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:ivonnerubio/"$projectName".git
-git push -u origin master
+
+
+ Curl -u “ivonnerubio” https://api.github.com/user/repos -d’ ‘{“name”:”test6”, “private:”:”true”}’
+
+ https://www.youtube.com/watch?v=6xmFp4_U9-A

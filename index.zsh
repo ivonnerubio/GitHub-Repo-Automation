@@ -18,6 +18,4 @@ git commit -m "initial commit"
 git add README.md
 
 
- curl -u “ivonnerubio” https://api.github.com/user/repos -d '{“name”:”test6”, “private”:”true”}'
-
- https://www.youtube.com/watch?v=6xmFp4_U9-A
+ curl -u “ivonnerubio” https://api.github.com/user/repos -d '{“name”:"${projectName}, “private”:”true”}'

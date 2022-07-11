@@ -6,7 +6,7 @@ read -r projectName
 echo -n "Language: "
 read -r Language
 
-
+echo "hi + ${Language}"
 
 echo
 echo "Creating Project......."

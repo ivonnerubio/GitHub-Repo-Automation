@@ -12,10 +12,12 @@ echo
 echo "Creating Project......."
 
 mkdir "$projectName"
+cd "projectName"
 git init
+git add README.md
 git add .
 git commit -m "initial commit"
-git add README.md
+
 
 
  curl -u "ivonnerubio" https://api.github.com/user/repos -d '{“name”:"${projectName}, “private”:”true”}'

@@ -13,9 +13,14 @@ This zsh shell script will do the following items in sequential order:
 - Move into the new directory
 - Initialize a new git project
 - Create a readme file
-- Create 
-        Describe the content of your project or repository
-        Explain things the users would have a hard time understanding right away
+- Add all the files and commit them to the repository
+
+
+## Describe the content of your project or repository
+This repo contains the zsh script and a readme file.
+
+## Important Notes
+This script requires the user to customize the path of where the repo will be created. I have chosen a folder in my documents called GitHub, where all my repos will live. 
     What steps need to be taken?
         Do they need to install any software?
         Is there any hardware requirements or dependencies?

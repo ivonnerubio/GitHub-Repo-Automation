@@ -14,6 +14,7 @@ This zsh shell script will do the following items in sequential order:
 - Initialize a new git project
 - Create a readme file
 - Add all the files and commit them to the repository
+- Open VSCode with the repository opened 
 
 
 ## Describe the content of your project or repository
@@ -21,7 +22,12 @@ This repo contains the zsh script and a readme file.
 
 ## Important Notes
 This script requires the user to customize the path of where the repo will be created. I have chosen a folder in my documents called GitHub, where all my repos will live. 
-    What steps need to be taken?
+
+It will also require the VSCode enviroment to be intalled via the command pallete
+
+## What steps need to be taken?
+- Download the GitHub-Repo-Automation.zsh and store it where your GitHub repos will live. Example "/Document/GitHub/"
+- Open Visual Studio code and open the command pallete and install "Shell Command: Install 'code' command in PATH"
         Do they need to install any software?
         Is there any hardware requirements or dependencies?
         After the installation, how they compile or run the code?

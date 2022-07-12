@@ -7,6 +7,10 @@ This repository will facilitate the proccess of creating a new GitHub repository
 Readme files are made for developers (including you), but also could be used for the final users. So while you are writing your readme files please consider a few things:
 
 ## What does it do?
+
+https://user-images.githubusercontent.com/28023005/178380790-2889ee99-a82b-449f-8bab-73cd9f4153fb.mov
+
+
 This zsh shell script will do the following items in sequential order:
 - Ask for a project name
 - Make a new directory with the project name

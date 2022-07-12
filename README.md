@@ -29,9 +29,5 @@ It will also require the VSCode enviroment to be intalled via the command pallet
 ## What steps need to be taken?
 - Download the GitHub-Repo-Automation.zsh and store it where your GitHub repos will live. Example "/Document/GitHub/"
 - Open Visual Studio code and open the command pallete and install "Shell Command: Install 'code' command in PATH"
-        Do they need to install any software?
-        Is there any hardware requirements or dependencies?
-        After the installation, how they compile or run the code?
-    Execution examples
-        You could provide examples of execution with code and screenshots
+- Install GitHub CLI https://cli.github.com/manual/installation
 

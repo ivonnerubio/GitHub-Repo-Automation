@@ -1,6 +1,6 @@
 # GitHub-Repo-Automation
 
-This repository will automate the process of creating a new GitHub repository on your local machine. The ZSH script will ask for the project name and create a new directory in the selected document place. It will then create a new private repository in your GitHub account.
+This repository will automate the process of creating a new GitHub repository on your local machine and open VS Code with a ready-to-go repository. The ZSH script will ask for the project name and create a new directory in the selected document place. It will then create a new private repository in your GitHub account.
 
 ## Live Demo
 https://user-images.githubusercontent.com/28023005/178381368-e0155d59-828d-4e8c-874a-27dd9da0b759.mov

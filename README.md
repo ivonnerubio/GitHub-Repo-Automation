@@ -3,7 +3,8 @@
 This repository will facilitate the proccess of creating a new GitHub repository on your local machine. The ZSH script will ask for the project name and it will create a new directory in the selected document place. It will then create a new private repository in your GitHub account. 
 
 ## Live Demo
-https://user-images.githubusercontent.com/28023005/178381217-871043eb-7859-4d31-b51d-399802b405da.mov
+https://user-images.githubusercontent.com/28023005/178381368-e0155d59-828d-4e8c-874a-27dd9da0b759.mov
+
 
 
 ## What does it do?
